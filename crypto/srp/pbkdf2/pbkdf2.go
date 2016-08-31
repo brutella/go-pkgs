@@ -15,7 +15,7 @@
 package pbkdf2
 
 import (
-	"code.google.com/p/go.crypto/pbkdf2"
+	"golang.org/x/crypto/pbkdf2"
 	"hash"
 )
 
